@@ -1,0 +1,6 @@
+{
+  "name": "The Future Track - Computer Education",
+  "description": "Official website for The Future Track Computer Education institute offering certified computer courses, IT training, and career skills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
